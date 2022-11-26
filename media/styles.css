@@ -4,7 +4,7 @@ body {
 }
 
 .box {
-	padding: 10px;
+	padding: 5px;
 	background-color: #FFF;
 	border-radius: 10px;
 	box-shadow: 10px 10px rgba(0,0,0, 0.5);
@@ -19,8 +19,8 @@ body {
 	overflow-y: scroll;
 	border: 2px solid #000;
 	border-radius: 10px;
-	margin: 10px;
-	padding: 10px;
+	margin: 5px; /* HfD */
+	padding: 5px; /* HfD */
 	background-color: #CFF;
 }
 .ram table {
@@ -31,7 +31,7 @@ body {
 	top: 20%;
 	background-color: #FFC;
 	border: 2px solid #000;
-	padding: 10px;
+	padding: 5px;
 	overflow-y: scroll;
 	bottom: 0px;
 	max-width: 50%;
@@ -50,7 +50,7 @@ body {
 	position: absolute;
 	left: 0px;
 	top: 0px;
-	padding: 10px;
+	padding: 5x;
 	margin: 10px;
 	width: 50%;
 	border: 2px solid #000;
@@ -102,7 +102,7 @@ body {
 #alu,#cu {
 	position: absolute;
 	text-align: center;
-	padding: 10px;
+	padding: 5px;
 	display: block;
 	width: 30%;
 	border: 1px solid #000;
@@ -161,7 +161,7 @@ body {
 	border: 2px solid #000;
 	border-radius: 0px 10px 0px 0px;
 	z-index: 250;
-	padding: 10px;
+	padding: 5px;
 	text-align: center;
 	font-size: 1.5em;
 	transition: all 1s;
@@ -182,7 +182,7 @@ body {
 
 .fetch_decode_execute {
 	border-radius: 10px;
-	padding: 10px;
+	padding: 5px;
 	margin: 10px;
 }
 
